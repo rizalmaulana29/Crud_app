@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 14px;
+    margin-bottom: 20px;
+}
+
+.fitem {
+    margin-bottom: 10px;
+}
+
+.fitem label {
+    display: inline-block;
+    width: 80px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.fitem input {
+    width: 250px;
+}
+
+#toolbar {
+    margin-bottom: 10px;
+}
